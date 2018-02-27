@@ -1,0 +1,42 @@
+body{
+    font-family: 'Comfortaa', cursive;
+}
+
+.btn{
+    border:1px solid  #f00;
+    padding: 5px 16px;
+    border-radius: 3px;
+    text-decoration:none;
+    color:#f00;
+}
+
+.btn:hover{
+    background:#F00;
+    color:#fff;
+}
+
+.primary-btn{
+    background:#FFF;
+    color:#0F0;
+    border:1px solid #0F0;
+    padding: 5px 16px;
+    border-radius: 3px;
+    text-decoration:none;
+}
+
+.primary-btn:hover{
+    background: #0F0;
+    color:#FFF;
+}
+.secondary-btn{
+    background: #FFF;
+    color:#00F;
+    border:1px solid #00F;
+    padding: 5px 16px;
+    border-radius: 3px;
+    text-decoration:none;
+}
+.secondary-btn:hover{
+    background: #00F;
+    color: #fff;
+}
